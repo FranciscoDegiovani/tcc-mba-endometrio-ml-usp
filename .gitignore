@@ -1,0 +1,19 @@
+# Dados (não versionar)
+data/*
+!data/.gitkeep
+*.pkl
+*.joblib
+*.csv
+*.CSV
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
